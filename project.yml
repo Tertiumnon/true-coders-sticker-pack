@@ -1,4 +1,18 @@
 type: telegram-sticker-pack
-publish_on:
+slug: stickers-ru-coders
+listed_on:
   - https://tertiumnon.github.io
 icon: stickers/sockets_down.png
+display_name:
+  en: "tRUe coders"
+summary:
+  en: "Telegram sticker pack: tRUe coders."
+languages:
+  - en
+default_language: en
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - developer
+    github: Tertiumnon
